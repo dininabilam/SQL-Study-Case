@@ -1,5 +1,5 @@
-create database c3;
-use c3;
+create database burger_bash;
+use burger_bash;
 
 ##Q1
 SELECT COUNT(*) as 'no of orders' FROM runner_orders;
